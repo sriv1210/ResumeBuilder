@@ -6,7 +6,7 @@ import IconDivider from './IconDivider'
 export default class BuilderSection extends Component {
     render() {
         return (
-            <section className="page-section bg-light text-secondary mb-0" id="about">
+            <section className="page-section about mb-0" id="about">
                 <div className="container">
 
                     {/* <!-- Builder Section Heading--> */}
