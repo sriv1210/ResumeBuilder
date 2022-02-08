@@ -27,9 +27,7 @@ export default class Footer extends Component {
                         <div className="col-lg-4">
                             <h4 className="text-uppercase mb-4">About</h4>
                             <p className="lead mb-0">
-                                Hi, I am sripradha. This is my first project. 
-                                Hope it was useful ;)
-                                .
+                                This is a Resume Maker for making your first impression.
                             </p>
                         </div>
                     </div>

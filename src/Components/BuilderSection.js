@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import BuilderSectionContent from './BuilderSectionContent'
-// import BuilderSectionSaveButton from './BuilderSectionSaveButton'
 import IconDivider from './IconDivider'
+
 
 export default class BuilderSection extends Component {
     render() {
@@ -18,8 +18,7 @@ export default class BuilderSection extends Component {
                     {/* <!-- Builder Section Content--> */}
                     <BuilderSectionContent />
 
-                    {/* BuilderSectionEdit Button */}
-                    {/* <BuilderSectionSaveButton /> */}
+                    {/* <Testing /> */}
 
                 </div>
             </section>
